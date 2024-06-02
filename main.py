@@ -8,3 +8,10 @@ class Model:
 
 class Color:
     pass
+
+class Price:
+    pass
+
+class Speed:
+    pass
+    
